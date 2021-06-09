@@ -2,7 +2,7 @@
 int main()
 {
   //printing the message
-  printf("I belongs to Udaipur");
+  printf("beautiful sunset");
   /*
   returning 0
   from the program
